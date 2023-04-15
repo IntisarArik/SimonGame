@@ -5,12 +5,12 @@ This is a simple Simon gaming web application built with jQuery. The game requir
 
 ## How to Play
 
-1. Press the "Start" button to begin the game.
+1. Press the any button to start the game.
 2. Pay attention to the pattern of colors and sounds played by the Simon game.
 3. Repeat the pattern by clicking the colored buttons in the same order that Simon played them.
 4. If you get the pattern correct, the game will continue to the next round, which will have an additional step.
 5. If you make a mistake, the game will end and you will have to start over.
-6. The game can be restarted at any time by clicking the "Start" button.
+6. The game can be restarted at any time by clicking any button.
 
 ## Technologies Used
 
